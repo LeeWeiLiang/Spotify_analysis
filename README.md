@@ -5,3 +5,6 @@ Spotify Revenue Analysis
 - Premium MAUs : It is defined as users that have completed registration with Spotify and have activated a payment method for Premium Service.
 - Ad MAUs : It is defined as the total count of Ad-Supported Users that have consumed content for greater than zero milliseconds in the last thirty days from the period-end indicated.
 - Premium ARPU : It is average revenue per user which is monthly measure defined as Premium subscription revenue recognized in the quarter indicated divided by the average daily Premium Subscribers in such quarter, which is then divided by three months.
+
+All money figures are in Euro millions except ARPU which is in Euro and as it is.
+**Note : All users figures are in millions. **
