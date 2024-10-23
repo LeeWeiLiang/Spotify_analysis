@@ -1,3 +1,10 @@
+<img width="545" alt="image" src="https://github.com/user-attachments/assets/112d1850-d9a4-4aa6-adf3-45282379f51f">
+
+<img width="371" alt="image" src="https://github.com/user-attachments/assets/46abe8fa-21ae-452a-8e0d-76edca44a86c">
+
+<img width="139" alt="image" src="https://github.com/user-attachments/assets/414708e8-5b3b-4de7-96f1-a9f79403dd8d">
+
+
 # Spotify_analysis
 Spotify Revenue Analysis
 
