@@ -12,9 +12,9 @@ All money/user figures are in Euro millions except ARPU which is in Euro and as 
 
 <img width="573" alt="image" src="https://github.com/user-attachments/assets/6035544a-538e-4cde-9191-156f1c0183f8">
 
--Between 2017 and 2022, Spotify's premium and ad-supported revenue grew by 1.8 and 2.55, respectively.
--Between 2017 and 2022, Spotify's premium and ad-supported cost rose by 1.56 and 2.88 times, respectively.
--Due to the poor and occasionally even negative gross profit margins from ad-supported users, ad-supported revenue and ad-supported cost are closely related.
+- Between 2017 and 2022, Spotify's premium and ad-supported revenue grew by 1.8 and 2.55, respectively.
+- Between 2017 and 2022, Spotify's premium and ad-supported cost rose by 1.56 and 2.88 times, respectively.
+- Due to the poor and occasionally even negative gross profit margins from ad-supported users, ad-supported revenue and ad-supported cost are closely related.
   
 
 <img width="306" alt="image" src="https://github.com/user-attachments/assets/73797a51-a2e2-4c7d-99c1-9cf386747022">
